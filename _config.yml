@@ -1,6 +1,3 @@
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: astrosites/jekyll-theme-astro
 plugins:
   - jekyll-remote-theme
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
