@@ -1,3 +1,2 @@
-remote_theme: astrosites/jekyll-theme-astro
-plugins:
-  - jekyll-remote-theme
+theme: minimal-mistake-jekyll
+
