@@ -3,5 +3,8 @@
 
 @import "{{site.theme}}";
 body{
-  background: #f0f0f0;
+  background-image: url('/assets/background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
