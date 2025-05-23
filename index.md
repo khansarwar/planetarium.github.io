@@ -1,6 +1,2 @@
----
-layout: home
-title: "Home"
----
-
+# heading
 Hi, you are welcomed.
