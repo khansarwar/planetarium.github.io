@@ -11,7 +11,7 @@ title: About
     padding: 5px 30px;
     border-radius: 5px;
     text-decoration: none;
-    margin: 20px
+    margin: 10px
   }
 </style>
 <a href="/home/" class="my-button">   Home   </a> <a href="/button1/" class="my-button" > Button 1 </a> <a href="/button2/" class="my-button"> Button 2 </a> <a href="/contact/" class="my-button"> Contact </a> <a href="/about/" class="my-button"> About Me </a>
