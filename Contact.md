@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
+permalink: planetarium.github.io/contact/
 ---
 
 # CONTACT
