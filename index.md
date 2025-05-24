@@ -7,7 +7,7 @@ title: About
   <h2 style="color:white; text-align:center;">Planetarium</h2>
   <style>
   .my-button {
-    background: #007bff;
+    background-image: url('background.jpg');
     color: #fff;
     padding: 5px 30px;
     border-radius: 5px;
