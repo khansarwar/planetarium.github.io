@@ -10,7 +10,7 @@ title: About
     border-radius: 5px;
     text-decoration: none;
     margin: 10px;
-    text-align:right
+    position:right
   }
 </style>
 <h1>Planetarium </h1>
