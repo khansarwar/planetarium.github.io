@@ -18,7 +18,7 @@ title: About
 
 
 <div style="background-image: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80'); background-size: cover; background-position: center; padding: 40px; border-radius: 12px;">
-  <h2 style="color: white align=centre;">Planetarium</h2>
+  <h2 style="color:white; align:center;">Planetarium</h2>
   <p style="color: white;">
     This section uses an image background via inline CSS!
   </p>
