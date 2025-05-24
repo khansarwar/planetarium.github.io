@@ -17,7 +17,7 @@ title: Home
 
 <h1>Planetarium </h1>
 
-<a href="https://khansarwar.github.io/planetarium.github.io/" class="my-button">   Home   </a> <a href="/button1/" class="my-button" > Button 1 </a> <a href="/button2/" class="my-button"> Button 2 </a> <a href="/contact/" class="my-button"> Contact </a> <a href="/about/" class="my-button"> About Me </a>
+<a href="https://khansarwar.github.io/planetarium.github.io/" class="my-button">   Home   </a> <a href="/button1/" class="my-button" > Button 1 </a> <a href="/button2/" class="my-button"> Button 2 </a> <a href="planetarium.github.io/contact/" class="my-button"> Contact </a> <a href="/about/" class="my-button"> About Me </a>
 
 
 <div style="background-image: url('image1.jpg'); background-size: cover; background-position: center; padding: 100px; border-radius: 12px;">
