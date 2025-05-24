@@ -9,8 +9,8 @@ title: About
     padding: 5px 30px;
     border-radius: 5px;
     text-decoration: none;
-    margin: 10px
-    align:right
+    margin: 10px;
+    text-align:right
   }
 </style>
 <h1>Planetarium </h1>
