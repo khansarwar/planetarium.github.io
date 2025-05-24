@@ -20,12 +20,6 @@ title: Home
 <a href="https://khansarwar.github.io/planetarium.github.io/" class="my-button">   Home   </a> <a href="/button1/" class="my-button" > Button 1 </a> <a href="/button2/" class="my-button"> Button 2 </a> <a href="/contact/" class="my-button"> Contact </a> <a href="/about/" class="my-button"> About Me </a>
 
 
-<select>
-  <option value="volvo">MERN</option>
-  <option value="saab" selected>DevOps</option>
-  <option value="mercedes">AI/ML</option>
-  <option value="audi">Data Science</option>
-</select>
 <div style="background-image: url('image1.jpg'); background-size: cover; background-position: center; padding: 100px; border-radius: 12px;">
   <h2 style="color:white; text-align:center">Welcome To Our PLANETARIUM !</h2>
   <p style="color: white; text-align:center">
