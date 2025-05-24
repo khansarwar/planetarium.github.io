@@ -9,7 +9,7 @@ title: About
     padding: 5px 30px;
     border-radius: 5px;
     text-decoration: none;
-    margin: 2px 10px;
+    margin: 200px 10px;
     text-align: right;
   }
 </style>
