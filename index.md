@@ -8,7 +8,7 @@ title: About
   .my-button {
     background: #007bff;
     color: #fff;
-    padding: 20px 20px;
+    padding: 5px 30px;
     border-radius: 5px;
     text-decoration: none;
     margin: 20px
