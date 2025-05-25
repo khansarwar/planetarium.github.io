@@ -1,2 +1,4 @@
 title: Planetarium
-theme: alembic-jekyll-theme
+remote_theme: daviddarnes/alembic
+plugins:
+  - jekyll-remote-theme
