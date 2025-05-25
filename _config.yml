@@ -1,4 +1,4 @@
 title: Planetarium
-remote_theme: daviddarnes/alembic
+remote_theme: StartBootstrap/startbootstrap-creative-jekyll
 plugins:
   - jekyll-remote-theme
