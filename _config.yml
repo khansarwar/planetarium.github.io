@@ -1,5 +1,5 @@
-baseurl: "/planetarium.github.io"
 title: Planetarium
 remote_theme: raviriley/agency-jekyll-theme
 plugins:
   - jekyll-remote-theme
+baseurl: "/planetarium.github.io"
