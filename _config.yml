@@ -1,4 +1,3 @@
 title: Planetarium
-remote_theme: raviriley/agency-jekyll-theme
-plugins:
-  - jekyll-remote-theme
+theme: jekyll-theme-cayman
+
