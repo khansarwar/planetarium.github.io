@@ -1,4 +1,2 @@
 title: Planetarium
-remote_theme: jasper2jekyll/jasper2
-plugins:
-  - jekyll-feed
+theme: minimal-mistakes-jekyll
