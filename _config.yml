@@ -1,4 +1,4 @@
 title: Planetarium
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: raviriley/agency-jekyll-theme
 plugins:
-  - jekyll-include-cache
+  - jekyll-remote-theme
