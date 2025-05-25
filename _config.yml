@@ -1,4 +1,4 @@
 title: Planetarium
-remote_theme: StartBootstrap/startbootstrap-creative-jekyll
+remote_theme: jasper2jekyll/jasper2
 plugins:
-  - jekyll-remote-theme
+  - jekyll-feed
