@@ -6,7 +6,7 @@ title: Home
   .my-button {
     background-image: url('background.jpg'); background-size: cover; background-position: center; padding: 100px; border-radius: 12px;
     color: #fff;
-    padding: 20px 30px;
+    padding: 5px 30px;
     border-radius: 5px;
     text-decoration: none;
     margin: 5px;
