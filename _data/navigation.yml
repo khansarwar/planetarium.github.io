@@ -1,6 +1,7 @@
-- title: Home
-  url: /
-- title: Contact
-  url: /contact/
-- title: About Me
-  url: /about/
+nav:
+  - title: Home
+    url: /
+  - title: Contact
+    url: /contact/
+  - title: About Me
+    url: /about/
