@@ -2,7 +2,9 @@
 layout: page
 title: Home
 ---
-[![image](image1.jpg)][demo-page]
 # Planetarium
 
+<pre class="custom-code-bg"><code>
+Your code here
+</code></pre>
 
