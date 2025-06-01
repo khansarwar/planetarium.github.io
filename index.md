@@ -7,12 +7,11 @@ title: Home
 .custom-code-bg {
   background-image: url('image1.jpg');
   background-size: cover;
-  padding: 16px;
-  border-radius: 6px;
-  color: #fff; /* optional, for contrast */
+  padding: 400px;
+  border-radius: 10px;
 }
 </style>
 <pre class="custom-code-bg"><code>
-Your code here
+Welcom to our Planetarium !
 </code></pre>
 
