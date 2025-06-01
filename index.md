@@ -8,5 +8,5 @@ body {
   background-image: url("image1.jpg")
 }
 </style>
-<span style="color:white;">Hi, welcome.</span>
+<span style="color:white; text-align:center; font-size:16px"> Hi, welcome.</span>
 
