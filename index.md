@@ -2,16 +2,10 @@
 layout: page
 title: Home
 ---
-<style>
-body {
-  background-image: url("image1.jpg");
-}
-.centered-text {
-  color: white;
-  text-align: center;
-  font-size: 24px;
-  margin-top: 30px;
-}
-</style>
-
-<div class="centered-text">Hi, welcome.</div>
+# Home
+<div style="background-image: url('image1.jpg'); background-size: cover; background-position: center; padding: 400px; border-radius: 12px;">
+  <h2 style="color: white;">Welcome to our planetarium!</h2>
+  <p style="color: white;">
+    Hi, this site will tell you about stars and universe.
+  </p>
+</div>
