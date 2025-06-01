@@ -7,8 +7,9 @@ title: Home
 .custom-code-bg {
   background-image: url('image1.jpg');
   background-size: cover;
-  padding: 400px;
+  padding: 200px;
   border-radius: 10px;
+  color: #fff;
 }
 </style>
 <pre class="custom-code-bg"><code>
