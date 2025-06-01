@@ -2,7 +2,7 @@
 layout: page
 title: Home
 ---
-![image](image1.jpg)
+[![image](image1.jpg)][demo-page]
 # Planetarium
 
 
